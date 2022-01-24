@@ -35,3 +35,6 @@
 ###### Versão 2021.7.2
 ###### Por padrão eu uso o Insomnia, e não estou afim de mudar o qual ja tenho facilidade de uso.
 ###### Windows 10
+
+7. HTTPie
+###### Não achei necessidade de instalar isso.
